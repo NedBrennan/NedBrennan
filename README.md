@@ -1,4 +1,4 @@
-## 👋 Hey There, I'm Ned Brennan
+## 👋 Hey There, I'm Ned
 
 🔭 Currently working on a suite of financial indicators based on reddit analytics  
 🌱 Learning more ways to be productive with my time, while still remaining sane 😄  
